@@ -1,0 +1,10 @@
+C:\Users\Timmy\Desktop\EC447\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\Timmy\Desktop\EC447\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\Users\Timmy\Desktop\EC447\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\Users\Timmy\Desktop\EC447\Lab8\Lab8\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
+C:\Users\Timmy\Desktop\EC447\Lab8\Lab8\obj\Debug\Lab8.Form1.resources
+C:\Users\Timmy\Desktop\EC447\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+C:\Users\Timmy\Desktop\EC447\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.Cache
+C:\Users\Timmy\Desktop\EC447\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\Users\Timmy\Desktop\EC447\Lab8\Lab8\obj\Debug\Lab8.pdb
+C:\Users\Timmy\Desktop\EC447\Lab8\Lab8\obj\Debug\Lab8.Slides.resources
